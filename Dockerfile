@@ -1,4 +1,4 @@
-FROM node:7-onbuild
+FROM tomcat:latest
 
 # set maintainer
 LABEL maintainer "crudsinfotechng@gmail.com"
